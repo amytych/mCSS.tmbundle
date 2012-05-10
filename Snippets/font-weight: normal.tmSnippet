@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>font-weight: normal;$0</string>
 	<key>name</key>
-	<string>font-weight: normal</string>
+	<string>font-weight: 400</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
